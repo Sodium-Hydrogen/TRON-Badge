@@ -5,8 +5,12 @@ If you have any questions about the bus pirate other than:
   <li> Pirate Loader doesn't work.</li>
   <li> I loaded new firmware and the vreg is too low</li>
 </ul>
-Please visit the [community repository](https://github.com/BusPirate/Bus_Pirate/) or the [Dangerous Prototypes Forum](http://dangerousprototypes.com/forum/).
+
+Please visit the [community repository] or the [Dangerous Prototypes Forum].
 
 ---
 
 For general TRON badge information please visit the [wiki](https://github.com/Sodium-Hydrogen/TRON-Badge/wiki)
+
+[community repository]: https://github.com/BusPirate/Bus_Pirate/
+[Dangerous Prototypes Forum]: http://dangerousprototypes.com/forum
